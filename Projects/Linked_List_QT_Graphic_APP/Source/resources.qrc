@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>info.png</file>
+        <file>quit.png</file>
+        <file>idea.png</file>
+    </qresource>
+</RCC>
